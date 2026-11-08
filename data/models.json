@@ -1,0 +1,350 @@
+[
+  {
+    "id": "mammotion-luba-2-awd-3000",
+    "nombre": "Mammotion Luba 2 AWD 3000",
+    "marca": "Mammotion",
+    "precio": 2499,
+    "area_max": 3000,
+    "pendiente_max": 45,
+    "sin_cable": true,
+    "navegacion": "RTK + visión",
+    "ancho_corte": 30,
+    "app": true,
+    "ruido_db": 60,
+    "peso": 21.0,
+    "bateria": "20.000 mAh",
+    "garantia": 3,
+    "pros": [
+      "Tracción a las cuatro ruedas real: sube pendientes de hasta 45°",
+      "Sin cable perimetral, se instala en una tarde",
+      "Corte de 3.000 m² con una sola unidad"
+    ],
+    "contras": [
+      "Precio alto y mantenimiento de cuchillas frecuente",
+      "La precisión RTK depende de una buena vista al cielo"
+    ],
+    "ideal_para": "Jardines grandes con desnivel, parcelas rurales y césped irregular.",
+    "amazon_asin": "",
+    "destacado": true,
+    "score_base": 95
+  },
+  {
+    "id": "segway-navimow-i105n",
+    "nombre": "Segway Navimow i105N",
+    "marca": "Segway",
+    "precio": 799,
+    "area_max": 500,
+    "pendiente_max": 27,
+    "sin_cable": true,
+    "navegacion": "GPS + visión",
+    "ancho_corte": 18,
+    "app": true,
+    "ruido_db": 54,
+    "peso": 11.5,
+    "bateria": "5.000 mAh",
+    "garantia": 2,
+    "pros": [
+      "Relación calidad-precio excelente para jardines medianos",
+      "Instalación sin cable en menos de una hora",
+      "Muy silencioso, apto para vecindarios densos"
+    ],
+    "contras": [
+      "Poca pendiente máxima: no sirve para taludes",
+      "Ancho de corte estrecho, tarda más en cubrir el jardín"
+    ],
+    "ideal_para": "Primer robot cortacésped, jardines llanos de hasta 500 m².",
+    "amazon_asin": "",
+    "destacado": true,
+    "score_base": 88
+  },
+  {
+    "id": "husqvarna-automower-305",
+    "nombre": "Husqvarna Automower 305",
+    "marca": "Husqvarna",
+    "precio": 1299,
+    "area_max": 600,
+    "pendiente_max": 25,
+    "sin_cable": false,
+    "navegacion": "Cable perimetral",
+    "ancho_corte": 22,
+    "app": true,
+    "ruido_db": 58,
+    "peso": 9.8,
+    "bateria": "2.500 mAh",
+    "garantia": 2,
+    "pros": [
+      "Marca con la mayor red de servicio técnico de España",
+      "Fiabilidad y repuestos disponibles durante años",
+      "Sistema de corte probado en millones de unidades"
+    ],
+    "contras": [
+      "Requiere instalar cable perimetral",
+      "Tecnología de navegación menos avanzada que la competencia"
+    ],
+    "ideal_para": "Quien prioriza fiabilidad y servicio técnico cerca de casa.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 82
+  },
+  {
+    "id": "worx-landroid-vision-m800",
+    "nombre": "Worx Landroid Vision M800",
+    "marca": "Worx",
+    "precio": 1399,
+    "area_max": 800,
+    "pendiente_max": 35,
+    "sin_cable": true,
+    "navegacion": "Visión IA",
+    "ancho_corte": 20,
+    "app": true,
+    "ruido_db": 56,
+    "peso": 13.0,
+    "bateria": "4.000 mAh",
+    "garantia": 2,
+    "pros": [
+      "Reconoce obstáculos y bordes con cámara, sin cable",
+      "Buena pendiente para su precio",
+      "App muy completa con mapas y zonas"
+    ],
+    "contras": [
+      "La visión puede fallar con luz muy baja o lluvia",
+      "Necesita césped relativamente despejado"
+    ],
+    "ideal_para": "Jardines de 500-800 m² con obstáculos y sin ganas de enterrar cable.",
+    "amazon_asin": "",
+    "destacado": true,
+    "score_base": 89
+  },
+  {
+    "id": "bosch-indego-s-500",
+    "nombre": "Bosch Indego S+ 500",
+    "marca": "Bosch",
+    "precio": 899,
+    "area_max": 500,
+    "pendiente_max": 27,
+    "sin_cable": false,
+    "navegacion": "Cable + lógica",
+    "ancho_corte": 19,
+    "app": true,
+    "ruido_db": 57,
+    "peso": 9.0,
+    "bateria": "2.500 mAh",
+    "garantia": 2,
+    "pros": [
+      "Precio contenido para una marca de primer nivel",
+      "Corte sistemático que deja el césped muy uniforme",
+      "Servicio técnico extendido en España"
+    ],
+    "contras": [
+      "Instalación con cable",
+      "Poca capacidad de pendiente"
+    ],
+    "ideal_para": "Jardines pequeños y llanos con presupuesto ajustado.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 78
+  },
+  {
+    "id": "gardena-sileno-life-750",
+    "nombre": "Gardena Sileno Life 750",
+    "marca": "Gardena",
+    "precio": 999,
+    "area_max": 750,
+    "pendiente_max": 35,
+    "sin_cable": false,
+    "navegacion": "Cable perimetral",
+    "ancho_corte": 19,
+    "app": true,
+    "ruido_db": 58,
+    "peso": 9.5,
+    "bateria": "2.100 mAh",
+    "garantia": 2,
+    "pros": [
+      "Excelente relación precio-superficie",
+      "Muy buen comportamiento en pendientes medias",
+      "Repuestos baratos y fáciles de encontrar"
+    ],
+    "contras": [
+      "Requiere cable perimetral",
+      "App más básica que la de sus rivales"
+    ],
+    "ideal_para": "Jardines de 500-750 m² con algo de desnivel y presupuesto medio.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 80
+  },
+  {
+    "id": "segway-navimow-i210",
+    "nombre": "Segway Navimow i210",
+    "marca": "Segway",
+    "precio": 1199,
+    "area_max": 1000,
+    "pendiente_max": 30,
+    "sin_cable": true,
+    "navegacion": "GPS + visión",
+    "ancho_corte": 20,
+    "app": true,
+    "ruido_db": 55,
+    "peso": 13.5,
+    "bateria": "6.000 mAh",
+    "garantia": 2,
+    "pros": [
+      "1.000 m² sin cable a un precio competitivo",
+      "Navegación GPS estable en parcelas abiertas",
+      "Buen equilibrio entre precio y prestaciones"
+    ],
+    "contras": [
+      "Necesita cobertura GPS decente",
+      "Pendiente limitada a 30°"
+    ],
+    "ideal_para": "Jardines amplios y abiertos de hasta 1.000 m².",
+    "amazon_asin": "",
+    "destacado": true,
+    "score_base": 87
+  },
+  {
+    "id": "ecovacs-goat-g1-800",
+    "nombre": "Ecovacs Goat G1-800",
+    "marca": "Ecovacs",
+    "precio": 1199,
+    "area_max": 800,
+    "pendiente_max": 30,
+    "sin_cable": true,
+    "navegacion": "Visión + GPS",
+    "ancho_corte": 22,
+    "app": true,
+    "ruido_db": 57,
+    "peso": 14.0,
+    "bateria": "5.200 mAh",
+    "garantia": 2,
+    "pros": [
+      "Cámara con detección de obstáculos y animales",
+      "Sin cable, instalación rápida",
+      "Buena app con gestión de zonas"
+    ],
+    "contras": [
+      "Marca más conocida por robots de interior",
+      "Rendimiento irregular con hierba muy alta"
+    ],
+    "ideal_para": "Jardines con mascotas y obstáculos frecuentes.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 81
+  },
+  {
+    "id": "dreame-a1",
+    "nombre": "Dreame A1",
+    "marca": "Dreame",
+    "precio": 1499,
+    "area_max": 800,
+    "pendiente_max": 30,
+    "sin_cable": true,
+    "navegacion": "LiDAR",
+    "ancho_corte": 22,
+    "app": true,
+    "ruido_db": 55,
+    "peso": 15.0,
+    "bateria": "5.000 mAh",
+    "garantia": 2,
+    "pros": [
+      "LiDAR: no depende de la luz ni del GPS",
+      "Mapeo muy preciso y navegación ordenada",
+      "Funciona bien en jardines sombreados"
+    ],
+    "contras": [
+      "Precio alto para la superficie que cubre",
+      "Menos potencia en pendientes fuertes"
+    ],
+    "ideal_para": "Jardines con mucha sombra o cobertura GPS mala.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 84
+  },
+  {
+    "id": "mammotion-yuka-mini-2-500",
+    "nombre": "Mammotion Yuka Mini 2 500",
+    "marca": "Mammotion",
+    "precio": 899,
+    "area_max": 500,
+    "pendiente_max": 40,
+    "sin_cable": true,
+    "navegacion": "RTK + visión",
+    "ancho_corte": 18,
+    "app": true,
+    "ruido_db": 58,
+    "peso": 11.0,
+    "bateria": "4.000 mAh",
+    "garantia": 2,
+    "pros": [
+      "Sube pendientes de hasta 40° en un modelo compacto",
+      "Sin cable y con buena app",
+      "Precio agresivo para su capacidad de desnivel"
+    ],
+    "contras": [
+      "Solo 500 m², se queda corto en jardines grandes",
+      "Ancho de corte pequeño"
+    ],
+    "ideal_para": "Jardines pequeños con taludes pronunciados.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 83
+  },
+  {
+    "id": "stihl-imow-5-0",
+    "nombre": "Stihl iMow 5.0",
+    "marca": "Stihl",
+    "precio": 1999,
+    "area_max": 1500,
+    "pendiente_max": 40,
+    "sin_cable": false,
+    "navegacion": "Cable + GPS",
+    "ancho_corte": 24,
+    "app": true,
+    "ruido_db": 60,
+    "peso": 16.0,
+    "bateria": "6.800 mAh",
+    "garantia": 3,
+    "pros": [
+      "Red de servicio técnico enorme en toda España",
+      "Construcción robusta, pensada para uso intensivo",
+      "3 años de garantía"
+    ],
+    "contras": [
+      "Instalación con cable obligatoria",
+      "Precio elevado frente a alternativas sin cable"
+    ],
+    "ideal_para": "Quien valora servicio técnico presencial y durabilidad por encima de todo.",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 86
+  },
+  {
+    "id": "worx-landroid-m700-plus",
+    "nombre": "Worx Landroid M700 Plus",
+    "marca": "Worx",
+    "precio": 799,
+    "area_max": 700,
+    "pendiente_max": 35,
+    "sin_cable": false,
+    "navegacion": "Cable perimetral",
+    "ancho_corte": 18,
+    "app": true,
+    "ruido_db": 59,
+    "peso": 10.5,
+    "bateria": "2.500 mAh",
+    "garantia": 2,
+    "pros": [
+      "Uno de los más baratos para 700 m²",
+      "Módulos ampliables y repuestos económicos",
+      "Buena comunidad y tutoriales en español"
+    ],
+    "contras": [
+      "Requiere cable perimetral",
+      "Navegación aleatoria menos eficiente"
+    ],
+    "ideal_para": "Presupuesto ajustado con jardín de hasta 700 m².",
+    "amazon_asin": "",
+    "destacado": false,
+    "score_base": 76
+  }
+]

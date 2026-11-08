@@ -1,0 +1,22 @@
+{
+  "nombre": "Robot de Césped",
+  "dominio": "https://robot-cortacesped.pages.dev",
+  "base_path": "",
+  "tagline": "Elige bien tu robot cortacésped, sin cable y sin líos",
+  "descripcion": "Comparativas independientes y un selector gratuito para encontrar el robot cortacésped que encaja con tu jardín, tu pendiente y tu presupuesto.",
+  "amazon_tag": "PENDIENTE-TAG-21",
+  "email": "",
+  "titular": "PENDIENTE",
+  "nif": "PENDIENTE",
+  "ciudad": "PENDIENTE",
+  "anio": 2026,
+  "aviso_afiliados": "Como participante en el Programa de Afiliados de Amazon, este sitio obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios mostrados son orientativos y pueden variar; el precio final es el que aparece en Amazon en el momento de la compra.",
+  "nota_precios": "Los precios son orientativos (PVP recomendado) y se actualizan periódicamente. El precio válido es el que muestra Amazon al finalizar la compra.",
+  "nav": [
+    { "href": "/", "texto": "Inicio" },
+    { "href": "/calculadora/", "texto": "Calculadora" },
+    { "href": "/comparativa/", "texto": "Comparativa" },
+    { "href": "/guia-de-compra/", "texto": "Guía de compra" },
+    { "href": "/preguntas-frecuentes/", "texto": "FAQ" }
+  ]
+}

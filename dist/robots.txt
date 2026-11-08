@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robot-cortacesped.pages.dev/sitemap.xml

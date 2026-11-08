@@ -1,0 +1,11 @@
+# Netlify: publica directamente la carpeta ya generada.
+# No hay build: el sitio se compila en local con `python build.py`.
+
+[build]
+  publish = "dist"
+  command = ""
+
+[[headers]]
+  for = "/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
