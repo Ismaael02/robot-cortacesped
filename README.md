@@ -1,7 +1,12 @@
 # Robot de Césped — proyecto de afiliación
 
+**Web publicada:** https://ismaael02.github.io/robot-cortacesped/
+**Estado:** online, publicándose automáticamente en cada `push`.
+**Coste:** 0 €.
+
 Sitio estático completo, generado con Python puro (sin dependencias, sin Node, sin frameworks).
-**Coste de funcionamiento: 0 €.**
+
+La sección «Puesta en marcha» queda como referencia: ya está hecho. Lo que falta de verdad es el alta en Amazon Associates y rellenar los datos legales.
 
 ```
 robot-cortacesped/

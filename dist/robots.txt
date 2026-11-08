@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://robot-cortacesped.pages.dev/sitemap.xml
+Sitemap: https://ismaael02.github.io/robot-cortacesped/sitemap.xml

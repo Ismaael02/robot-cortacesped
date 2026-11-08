@@ -1,89 +1,78 @@
-========================================
-  EMPIEZA AQUÍ — LÉEME, SON 2 MINUTOS
-========================================
+==========================================
+  LA WEB YA ESTÁ EN INTERNET
+==========================================
 
-LA WEB YA ESTÁ HECHA.
-No hay nada que programar. No hay nada que entender.
+Dirección:
 
-----------------------------------------
-1. VER LA WEB AHORA
-----------------------------------------
-Ya la tienes abierta en el panel de la derecha.
+  https://ismaael02.github.io/robot-cortacesped/
 
-Si quieres abrirla tú mismo:
-haz doble clic en el archivo "VER-LA-WEB.bat"
-que está en esta misma carpeta.
-
-Se abrirá en tu navegador. Para cerrarla,
-cierra la ventanita negra que aparece.
+Ábrela. Funciona. Puedes mandarla por WhatsApp
+y verla en el móvil.
 
 
-----------------------------------------
-2. PONERLA EN INTERNET (GRATIS)
-----------------------------------------
-Solo hay que hacer clic. Nada de escribir código.
+------------------------------------------
+QUÉ FALTA AHORA (nada urgente)
+------------------------------------------
 
-PASO 1
-Entra en github.com y crea una cuenta.
-Es gratis.
+1. TUS DATOS LEGALES
 
-PASO 2
-Arriba a la derecha, pulsa el botón "+"
-y elige "New repository".
+   Las páginas de "Aviso legal" y "Privacidad"
+   todavía dicen PENDIENTE. Hay que poner tu
+   nombre, tu NIF y tu ciudad.
 
-PASO 3
-Ponle de nombre:  robot-cortacesped
-Marca la opción "Public".
-Pulsa el botón verde "Create repository".
-
-PASO 4
-En la página que aparece, busca el enlace
-"uploading an existing file".
-Arrastra ahí la carpeta "robot-cortacesped"
-ENTERA (la que contiene todo, incluida
-la carpeta "dist").
-Espera a que termine de subir.
-Pulsa el botón verde "Commit changes".
-
-PASO 5
-Entra en cloudflare.com y crea una cuenta.
-Es gratis y no pide tarjeta.
-
-PASO 6
-En el menú de la izquierda, pulsa
-"Workers & Pages".
-Luego "Create".
-Luego "Pages".
-Luego "Connect to Git".
-
-PASO 7
-Autoriza tu cuenta de GitHub y elige
-el repositorio "robot-cortacesped".
-
-PASO 8
-Donde pone "Build output directory"
-escribe esta palabra:
-
-    dist
-
-Pulsa "Save and Deploy".
+   Dímelo por el chat y lo cambio yo.
+   Es un minuto.
 
 
-----------------------------------------
-3. YA ESTÁ
-----------------------------------------
-En un minuto tendrás tu web en internet,
-con una dirección parecida a:
+2. DARSE DE ALTA EN AMAZON
 
-    robot-cortacesped.pages.dev
+   Para ganar dinero con la web hay que apuntarse
+   al programa de afiliados de Amazon.
 
-Cópiala y pégamela en el chat.
-Yo compruebo que todo funciona y seguimos.
+   Piden DNI, datos fiscales y cuenta bancaria.
+   Eso solo puedes hacerlo tú, no es algo que
+   yo pueda firmar en tu nombre.
+
+   Cuando quieras, entra en:
+
+     afiliados.amazon.es
+
+   y solicita el alta. Te pedirán la dirección
+   de tu web; pega la de arriba.
 
 
-----------------------------------------
-SI ALGO NO SALE
-----------------------------------------
-No te preocupes y no lo intentes arreglar.
-Dime exactamente en qué paso te has quedado
-y qué pone la pantalla. Yo te guío.
+3. AVISAR A GOOGLE
+
+   Para que la gente te encuentre cuando busque
+   en Google:
+
+   - Entra en search.google.com/search-console
+   - Añade tu web
+   - Envía esta dirección:
+     https://ismaael02.github.io/robot-cortacesped/sitemap.xml
+
+   Esto también lo puedo hacer yo si me das
+   acceso, pero es más lío que hacerlo tú.
+
+
+------------------------------------------
+CÓMO CAMBIAR COSAS DE LA WEB
+------------------------------------------
+
+No toques ningún archivo. No hace falta.
+
+Pídemelo por el chat: cambiar un precio,
+añadir un robot nuevo, corregir un texto,
+cambiar el diseño...
+
+Yo lo cambio y la web se actualiza sola
+en un par de minutos.
+
+
+------------------------------------------
+SI ALGO SE ROMPE
+------------------------------------------
+
+Dime qué ves y lo arreglo. No toques nada
+por tu cuenta, que es más fácil romperlo
+que arreglarlo.
